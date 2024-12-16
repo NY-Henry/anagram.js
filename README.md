@@ -28,6 +28,7 @@ This will output:
 ```
 true "listen" and "silent" are anagrams.
 ```
+You can change the strings to be checked in the input1 and input2 variables 
 
 ## License
 
