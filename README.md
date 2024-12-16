@@ -1,6 +1,6 @@
 # Anagram Checker
 
-##(NY Henry)
+(NY Henry)
 
 This is a simple JavaScript program to check if two strings are anagrams of each other.
 
