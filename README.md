@@ -26,7 +26,7 @@ node anagram.js listen silent
 This will output:
 
 ```
-The strings "listen" and "silent" are anagrams.
+true "listen" and "silent" are anagrams.
 ```
 
 ## License
