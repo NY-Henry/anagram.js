@@ -14,7 +14,7 @@ This is a simple JavaScript program to check if two strings are anagrams of each
    ```
 3. Run the anagram checker:
    ```sh
-   node anagram.js <string1> <string2>
+   node anagram.js
    ```
 
 ## Example
