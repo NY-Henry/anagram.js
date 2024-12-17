@@ -8,7 +8,7 @@ This is a simple JavaScript program to check if two strings are anagrams of each
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/NY-Henry/anagram.js
    ```
 2. Navigate to the project directory:
    ```sh
